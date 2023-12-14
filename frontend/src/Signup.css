@@ -1,0 +1,12 @@
+.signup{
+    border-radius: 5%;
+    padding: 1%;
+    margin-top: 3%;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+     background-color: rgb(145, 193, 249);
+     transition: box-shadow 0.3s ease-in-out;
+   
+     &:hover {
+       box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+     }
+ }

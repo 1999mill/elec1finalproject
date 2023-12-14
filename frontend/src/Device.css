@@ -1,0 +1,17 @@
+.container {
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+
+  .vertical-center {
+    padding: 14px 50px;
+    text-align: center;
+
+    margin-top: 20px;
+    display: center;
+   
+  }
+  
+ 
