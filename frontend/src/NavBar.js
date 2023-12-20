@@ -10,7 +10,8 @@ export default function NavBar(){
         <CustomLink href="/Device">Devices</CustomLink>
         <CustomLink href="/User">Users</CustomLink>
         <CustomLink href="/About">About</CustomLink>
-        <CustomLink href="/Home">Home</CustomLink>           
+        <CustomLink href="/Home">Home</CustomLink> 
+        <CustomLink href="/Social">Social Media</CustomLink>          
         </ul>
         </nav>
          </>

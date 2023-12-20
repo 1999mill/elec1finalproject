@@ -13,6 +13,8 @@ import AddTracker from './AddTracker';
 import About from './About';
 import CreateUser from './CreateUser';
 import UpdateUser from './UpdateUser';
+import Ad from './ad';
+import Social from './social';
 
 function App() {
   return (
@@ -31,6 +33,8 @@ function App() {
         <Route path="/Tracker" element={<Tracker />} />
         <Route path="/AddTracker" element={<AddTracker />} />
         <Route path="/About" element={<About />} />
+        <Route path="/Ad" element={<Ad />} />
+       <Route path="/Social" element={<Social />} />
       </Routes>
     </div>
   );

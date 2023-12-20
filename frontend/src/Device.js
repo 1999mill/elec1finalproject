@@ -98,6 +98,13 @@ export default function Users() {
             <a href="/AddDevice"> Add Device</a>
           </div>
         </div>
+
+        <div class="container2">
+          <div class="vertical-center">
+            <a href="/Ad"> Blocked Ads</a>
+          </div>
+        </div>
+
     </Box>
   );
 }
